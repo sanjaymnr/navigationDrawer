@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_856a5852f96d7844a21f68bcf7ccef3986c125bf.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ea5b8f1c7a3e165b9b1f1109f0b114a36f87652d.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_ff5259a8c1fc9ed9a6f5147e6495d1aa49fd8981.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_dd91ecae0e2802df12eb8b54a5169c434f721297.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_25c5d7b2c530d14b5412916b18ce1e9d9d206ac2.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_142ffa5d2836d86ae6e47c9a7c408b0043f1f216.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_e100e381118c4585dee667d45e56fcb74b280105.jar" />
+    </item>
+    <item
+        jar="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Android\Android Desktop\navigation_drawer_example_android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_fb3d7e5f7121184d768dc00d28debbde2c2074d4.jar" />
+    </item>
+
+</items>
